@@ -14,7 +14,7 @@ Play against the **computer** and test your luck and strategy!
 
 ---
 
-## 🚀 How to Play
+## ▶️ How to Play
 1. Click on your choice — **Rock**, **Paper**, or **Scissors**.  
 2. The computer automatically makes its choice.  
 3. The winner is decided based on classic rules:
@@ -34,5 +34,4 @@ Play against the **computer** and test your luck and strategy!
 
 ## 🌐 Live Demo
 👉 [Play the Game Here](https://github.com/KrinalKatrodiya/Rock-Paper-Scissor/)  
-*(Replace `your-username` with your GitHub username once Pages is enabled.)*
 
